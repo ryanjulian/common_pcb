@@ -9379,8 +9379,8 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <connect gate="SERIAL" pin="AN2/!SS1!/CN4/RB2" pad="14"/>
 <connect gate="SERIAL" pin="OSC2/CLKO/RC15" pad="40"/>
 <connect gate="SERIAL" pin="SCK2/CN8/RG6" pad="4"/>
-<connect gate="SERIAL" pin="SCL1/RG2" pad="36"/>
-<connect gate="SERIAL" pin="SDA1/RG3" pad="37"/>
+<connect gate="SERIAL" pin="SCL1/RG2" pad="37"/>
+<connect gate="SERIAL" pin="SDA1/RG3" pad="36"/>
 <connect gate="SERIAL" pin="SDI2/CN9/RG7" pad="5"/>
 <connect gate="SERIAL" pin="SDO2/CN10/RG8" pad="6"/>
 <connect gate="SERIAL" pin="U1RX/SDI1/RF2" pad="34"/>
